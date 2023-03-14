@@ -1,0 +1,2 @@
+# Aeroporto--trabalho-final
+Trabalho realizado no segundo semestre de engenharia de computação em C++ com o objetivo de criar filas de aviões, pousa-los ou descolá-los de acordo com seu numero de ID, definir prioridades observando o combustível , entre outros objetivos. Este programa funciona por meio de um arquivo que pode ser criado ou de forma aleatória.
